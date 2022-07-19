@@ -1,2 +1,2 @@
 # AGPhotography
-http://agphotography.ga
+http://agphotography.ml
